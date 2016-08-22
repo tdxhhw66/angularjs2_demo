@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/angular2-tour-of-heroes/node_modules/*
+/angular2-tour-of-heroes/typings/*
